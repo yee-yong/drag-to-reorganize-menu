@@ -1,6 +1,6 @@
 # drag-to-reorganize-menu
 
-This app, written in Swift, allows user to drag item at will to reorganize menu.
+User may drag item at will to reorganize menu. This app is written entirely in Swift.
 
 Here is the GIF:
 
