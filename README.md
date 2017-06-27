@@ -4,5 +4,6 @@ User may drag item at will to reorganize menu. This app is written entirely in S
 
 Here is the GIF:
 
-<br /><br />
-![jun-22-2017 19-43-04_10fps](https://user-images.githubusercontent.com/1393085/27505966-9ac4517e-5862-11e7-93d8-88e7ee5c6ca2.gif)
+<br /><br /><br />
+
+![jun-26-2017 17-41-42_10fps](https://user-images.githubusercontent.com/1393085/27566087-895a09ec-5a97-11e7-8f93-eeec26a066ab.gif)
