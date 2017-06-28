@@ -1,8 +1,8 @@
 # drag-to-reorganize-menu
 
-You may drag item to reorganize the controls in the menu. This app is written entirely in Swift.
+You may drag item to reorganize the controls in this highly customized menu. This app is written entirely in Swift.
 
-Here is the GIF:
+Here is a quick demo in GIF:
 
 <br /><br /><br />
 
