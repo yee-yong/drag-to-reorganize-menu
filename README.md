@@ -1,6 +1,6 @@
 # drag-to-reorganize-menu
 
-You may drag item at will to reorganize menu. This app is written entirely in Swift.
+You may drag item to reorganize menu. This app is written entirely in Swift.
 
 Here is the GIF:
 
