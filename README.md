@@ -1,11 +1,13 @@
 # drag-to-reorganize-menu
 
-You may drag item to reorganize the controls in this highly customizable menu. This is written entirely in Swift. 
+You may drag item to reorganize the controls in this highly customizable menu. 
+
+This Swift app detects when two or more rectangles intersect each other. The logic determines the final location of the intersected rectangles, and gracefully animate the change of location. The menu hides the top row of controls which is used less often, when a timer expires.
 
 Here is a quick demo in GIF:
 <br /><br />
 
-![jun-28-2017 00-23-26_10fps](https://user-images.githubusercontent.com/1393085/27625081-2c88f578-5b98-11e7-8eea-f6af8138c6b6.gif)
+![jul-01-2017 13-00-18__10fps](https://user-images.githubusercontent.com/1393085/27765068-6f9fb35c-5e5d-11e7-871a-e01b90101fc7.gif)
 
 Refer to Apple's [UIView](https://developer.apple.com/documentation/uikit/uiview) reference document for the following:
 <ul type="circle";
