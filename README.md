@@ -1,8 +1,8 @@
 # drag-to-reorganize-menu
 
-You may drag item to reorganize the controls in this highly customizable menu. 
+You may drag item to reorganize the controls in this highly customizable pulldown menu. 
 
-This Swift app detects when two or more rectangles intersect each other. The logic determines the final location of the intersected rectangles, and gracefully animate the change of location. The menu hides the top row of controls if there is no activity for 3 seconds.
+This Swift app detects when two or more rectangles intersect each other. The logic then determines the final location of the intersected rectangles and gracefully animate their move to the final location. The menu hides the top row of controls if there is no activity for 3 seconds.
 
 Here is a quick demo in GIF:
 <br /><br />
