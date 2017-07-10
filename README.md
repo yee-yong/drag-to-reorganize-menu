@@ -1,8 +1,8 @@
 # drag-to-reorganize-menu
 
-You may drag item to reorganize the controls in this highly customizable pulldown menu. 
+This elegant pulldown menu, written in Swift, appears when a user swiped down. You may drag item to reorganize the controls in this highly customizable pulldown menu. 
 
-This Swift app detects when two or more rectangles intersect each other. The logic then determines the final location of the intersected rectangles and gracefully animate their move to the final location. The menu hides the top row of controls if there is no user swipe gesture for 3 seconds.
+This Swift app detects when two or more rectangles intersect each other. The logic then determines the final location of the intersected rectangles and gracefully animate their move to the final location. The menu hides the top row of controls if there is no user swipe gesture for 3 seconds, thus minimized the number of visible controls.
 
 Here is a quick GIF demo:
 <br /><br />
